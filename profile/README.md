@@ -18,6 +18,9 @@ Here's a list of things made by Meisei!
 ### Want to know more? 
 Feel free to contact Tomoko, or check our our website [here!](https://meisei.carrd.co/)[^1]
 
+### Contributing?
+Please make sure to follow our [project standards!](https://github.com/Plutomaster28/Meisei-Technologies-Project-Standards) or y'know, just be nice to the code-
+
 <sub>This markdown file is subject to updates</sub>
 
 [^1]: Website is currently unpolished and unfinished, please be patient qwq
